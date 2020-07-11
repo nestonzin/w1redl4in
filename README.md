@@ -1,16 +1,36 @@
-### Hi there 👋
+# Welcome.tsx
+# import Introduction from './felipeaustriaco.dev';  
 
-<!--
-**w1redl4in/w1redl4in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##### const Welcome = "Welcome to my Profile 💨"  
+##### console.log(`${Welcome}`) !  
+##### My name is Felipe Austríaco and this is my Github. I'm just a brazillian guy addicted to JavaScript. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node 💜 React.
+I'm actually working on a WhiteLabel Bank, focusing on Front-End.  🏦
+My hobbies are writting, studying and gaming. 🔥  
+
+### My social medias:  
+* 📰 [Medium] - Planning to write React tutorials later
+* 💻 [My Blog] - CV built and deployed with Gatsby + Netlify
+* 👔 [LinkedIn] - LinkedIn
+* 🎥 [YouTube] - Mix of games + linux stuff  
+
+# export default Introduction;
+
+
+
+
+
+
+
+[Medium]: <https://medium.com/@w1redl4in>
+[LinkedIn]: <https://www.linkedin.com/in/felipe-austriaco-dev/>
+[My Blog]: <https://www.felipeaustriaco.dev/>
+[YouTube]: <https://www.youtube.com/channel/UC6Z6YQtuLUEZqPqTJ4Jfywg>
+
+
+
+
+
+

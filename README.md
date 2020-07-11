@@ -18,7 +18,7 @@
 * 👔 [LinkedIn] - LinkedIn
 * 🎥 [YouTube] - Mix of games + linux stuff  
 
-**export default Introduction;**
+### export default Introduction;**
 
 
 

@@ -5,11 +5,11 @@
 ##### console.log('Welcome to my Profile 💨');
 ##### My name is Felipe Austríaco and this is my Github. I'm just a brazillian guy addicted to JavaScript. 🚀  
 
-Node 💜 React.  
+##### Node 💜 React.  
 
-I'm actually working on a WhiteLabel Bank, focusing on Front-End.  🏦  
+##### I'm actually working on a WhiteLabel Bank, focusing on Front-End.  🏦  
 
-My hobbies are writting, studying and gaming. 🔥  
+##### My hobbies are writting, studying and gaming. 🔥  
 
 
 ### My social medias:  

@@ -1,8 +1,8 @@
 # Welcome.tsx
-**import Introduction from './felipeaustriaco.dev';**
+### import Introduction from './felipeaustriaco.dev';
 
 
-### console.log('Welcome to my Profile 💨');
+#### console.log('Welcome to my Profile 💨');
 ##### My name is Felipe Austríaco and this is my Github. I'm just a brazillian guy addicted to JavaScript. 🚀  
 
 ##### Node 💜 React.  

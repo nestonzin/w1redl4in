@@ -1,5 +1,5 @@
 # Welcome.tsx
-# import Introduction from './felipeaustriaco.dev';  
+## import Introduction from './felipeaustriaco.dev';  
 
 
 ##### const Welcome = "Welcome to my Profile 💨"  
@@ -16,7 +16,7 @@ My hobbies are writting, studying and gaming. 🔥
 * 👔 [LinkedIn] - LinkedIn
 * 🎥 [YouTube] - Mix of games + linux stuff  
 
-# export default Introduction;
+## export default Introduction;
 
 
 

@@ -1,4 +1,4 @@
-![Intro](https://cdn.discordapp.com/attachments/263762535763673089/733696506183418007/done.png)
+![Intro](https://cdn.discordapp.com/attachments/263762535763673089/733697654026141766/newfontsize.png)
 
 
 ### My social medias:  

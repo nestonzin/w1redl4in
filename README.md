@@ -1,30 +1,11 @@
-# Welcome.tsx
-### import Introduction from './felipeaustriaco.dev';
-
-
-#### console.log('Welcome to my Profile 💨');
-##### My name is Felipe Austríaco and this is my Github. I'm just a brazillian guy addicted to JavaScript. 🚀  
-
-##### Node 💜 React.  
-
-##### I'm actually working on a WhiteLabel Bank, focusing on Front-End.  🏦  
-
-##### My hobbies are writting, studying and gaming. 🔥  
+![Intro](https://cdn.discordapp.com/attachments/263762535763673089/733696506183418007/done.png)
 
 
 ### My social medias:  
-* 📰 [Medium] - Planning to write React tutorials later
-* 💻 [My Blog] - CV built and deployed with Gatsby + Netlify
-* 👔 [LinkedIn] - LinkedIn
-* 🎥 [YouTube] - Mix of games + linux stuff  
-
-### export default Introduction;
-
-
-
-
-
-
+* 📰 [Medium] - Planning to write React tutorials later on
+* 💻 [My Blog] - CI/CD CV with Gatsby + Netlify
+* 👔 [LinkedIn] - LinkedIn Profile
+* 🎥 [YouTube] - Hobby + Tutorials
 
 [Medium]: <https://medium.com/@w1redl4in>
 [LinkedIn]: <https://www.linkedin.com/in/felipe-austriaco-dev/>

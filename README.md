@@ -1,4 +1,6 @@
 ![Intro](https://cdn.discordapp.com/attachments/263762535763673089/733697654026141766/newfontsize.png)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=w1redl4in)](https://github.com/w1redl4in/github-contribution-stats/)
+
 
 
 ### My social medias:  

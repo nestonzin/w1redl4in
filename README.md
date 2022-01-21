@@ -1,4 +1,4 @@
-![Intro](https://cdn.discordapp.com/attachments/416946495502286848/934155955619377212/github.png)
+![Intro](https://cdn.discordapp.com/attachments/416946495502286848/934158632629727232/github.png)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=w1redl4in)](https://github.com/w1redl4in/github-contribution-stats/)
 
 

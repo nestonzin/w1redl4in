@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on Fintech Magalu  
+🔭 I’m currently working on Mercado Livre :D
 🌱 I’m currently learning Design-Patterns, SOLID and Arquitectures  
 ⚡ Fun fact: I used to hate programming
 
